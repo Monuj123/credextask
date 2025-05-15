@@ -1,4 +1,4 @@
-# Credex Task
+# SoftSell
 
 Welcome to the project! This application uses React with a touch of Bootstrap for styling, aimed at delivering a clean and responsive user interface.
 
