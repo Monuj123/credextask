@@ -21,9 +21,9 @@ Check out the live demo here: https://credexlicense.netlify.app/
 ## Time Spent
 
 - **Setup & Planning:** ~1 hour to plan the structure and initialize the project.
-- **Development:** ~3 hours spent building the initial components and integrating Bootstrap.
+- **Development:** ~4 hours spent building the initial components and integrating Bootstrap.
 - **Testing & Refinement:** ~1 hour for testing the UI and smoothing out any issues.
 
-**Total Time:** Approximately 5 hours
+**Total Time:** Approximately 6 hours
 
 Thanks for checking out the project! Feel free to explore the code and let me know if you have any questions.
