@@ -4,7 +4,7 @@ Welcome to the project! This application uses React with a touch of Bootstrap fo
 
 ## Live Demo
 
-Check out the live demo here: [Live Demo](https://example.com/live-demo](https://credexlicense.netlify.app/))
+Check out the live demo here: https://credexlicense.netlify.app/
 
 ## Features Implemented
 
