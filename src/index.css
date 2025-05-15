@@ -1,0 +1,46 @@
+:root {
+  --primary: #4a6bff;
+  --secondary: #ff6b6b;
+  --dark: #2b2d42;
+  --light: #f8f9fa;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #4a6bff 0%, #6a11cb 100%);
+}
+
+.features-section {
+  background-color: #f1f3ff;
+}
+
+.testimonials-section {
+  background-color: white;
+}
+
+.contact-section {
+  background-color: #f1f3ff;
+}
+
+.btn-primary {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+.btn-secondary {
+  background-color: var(--secondary);
+  border-color: var(--secondary);
+}
+
+.step-icon {
+  font-size: 2.5rem;
+  color: var(--primary);
+}
+
+.feature-icon {
+  font-size: 2rem;
+  color: var(--primary);
+}
